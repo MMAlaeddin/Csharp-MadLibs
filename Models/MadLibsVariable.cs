@@ -1,6 +1,4 @@
-using System;
-
-namespace MadLibs.Solution.Models
+namespace MadLibs.Models
 {
   public class MadLibsVariable
   {
